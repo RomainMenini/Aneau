@@ -7,7 +7,7 @@ Il a été créé en partenariat avec l'association [Le deuxième texte](http://
 
 ## Données sources   
 
-* [http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/](Collecte #théâtrices2022)
+* [Collecte #théâtrices2022](http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/)
 * [Table des femmes auteurs, entrepreneurs et salonnières (David Trott)](http://homes.chass.utoronto.ca/~trott/fem_aut.htm)
 * [Play Summary 18](https://web.archive.org/web/20220513122818/http://playsummary18.org/) (Carol Sherman, Perry Gethner, Althea Arguelles-Ling)
 * [Répertoire du théâtre français imprimé au XVIIe siècle (Alain Riffaud)](https://repertoiretheatreimprime.othone.com/)
