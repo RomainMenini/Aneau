@@ -5,8 +5,8 @@ Il a été développé dans le cadre du projet de recherche [Cité des dames, cr
 
 Il a été créé en partenariat avec l'association [Le deuxième texte](http://ledeuxiemetexte.fr) en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération [#théâtrices2022](http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/).
 
-## Données sources   
-
+## Données   
+### Données sources
 * [Collecte #théâtrices2022](http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/)
 * [Table des femmes auteurs, entrepreneurs et salonnières (David Trott)](http://homes.chass.utoronto.ca/~trott/fem_aut.htm)
 * [Play Summary 18](https://web.archive.org/web/20220513122818/http://playsummary18.org/) (Carol Sherman, Perry Gethner, Althea Arguelles-Ling)
@@ -18,6 +18,8 @@ Il a été créé en partenariat avec l'association [Le deuxième texte](http://
 * [catalogue de la BnF](http://catalogue.bnf.fr)
 * [Google Books](https://books.google.com)
 * [Édifier notre matrimoine](https://www.edifiernotrematrimoine.org/ressources/oeuvres/oeuvres-de-theatre/)
+### Remerciements
+Merci à [Marianne Charrier-Vozel](https://www.univ-brest.fr/cecji-etudes-correspondances-journaux-intimes/fr/membre/marianne-charrier-vozel) pour ses informations et références à propos des pièces traduites de l'anglais de Marie-Thérèse Biancolelli et de Marie-Jeanne Riccoboni.
 
 ## Documents multimédia
 
